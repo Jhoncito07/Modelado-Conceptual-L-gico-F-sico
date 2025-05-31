@@ -59,16 +59,18 @@ Para abrir el archivo `.spa` del modelo físico, es necesario instalar **SQL Pow
 
 ## Capturas de Referencia
 
-```markdown
-### Modelo Conceptual
-![Modelo Conceptual] img/Modelo E-R.drawio.png
+
+### 📘 Modelo Conceptual (Entidad-Relación)
+
+![Modelo Entidad-Relación](https://github.com/Jhoncito07/Modelado-Conceptual-L-gico-F-sico/blob/main/img/Modelo%20E-R.drawio.png?raw=true)
 
 ### Modelo Lógico
-![Modelo Lógico](ruta/a/imagen_logico.png)
+![Modelo Lógico](https://github.com/Jhoncito07/Modelado-Conceptual-L-gico-F-sico/blob/main/img/Modelo%20L%C3%B3gico.drawio.png)
 
 ### Modelo Físico
-![Modelo Físico](ruta/a/imagen_fisico.png)
-```
+![Modelo Físico](https://github.com/Jhoncito07/Modelado-Conceptual-L-gico-F-sico/blob/main/img/Modelo%20F%C3%ADsico.png)
+
+---
 
 ## 📄 Licencia
 
