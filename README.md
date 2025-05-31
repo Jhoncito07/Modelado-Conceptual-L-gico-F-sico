@@ -57,6 +57,19 @@ Para abrir el archivo `.spa` del modelo físico, es necesario instalar **SQL Pow
 
 ---
 
+## Capturas de Referencia
+
+```markdown
+### Modelo Conceptual
+![Modelo Conceptual] img/Modelo E-R.drawio.png
+
+### Modelo Lógico
+![Modelo Lógico](ruta/a/imagen_logico.png)
+
+### Modelo Físico
+![Modelo Físico](ruta/a/imagen_fisico.png)
+```
+
 ## 📄 Licencia
 
 Este proyecto ha sido desarrollado con fines educativos y personales.  
